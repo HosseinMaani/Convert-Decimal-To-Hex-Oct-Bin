@@ -1,8 +1,11 @@
 # Convert-Decimal-To-Hex-Oct-Bin
 
-### How Run Program
+Converter App Just For FUN
 
-- open project folder in cmd
-- run `dotnet run`
-- enter your number to convert
-- enter base (2-8-16)
+### How to Run the Program
+
+- Git clone the project
+- Open the project folder in cmd
+- Run `dotnet run`
+- Enter your number to convert
+- Enter base (2-8-10-16)
